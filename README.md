@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Implementing Honeypot in Azure VM and logging with Sentinel by Country](https://github.com/johnalvarogarcia/AzureRDPAttempts)
-  - [Implementing Insecure Web App in Amazon AWS](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+  - [Implementing Insecure Web App in Amazon AWS](https://github.com/johnalvarogarcia/juiceshop/tree/main)
   - [TryHackMe SOC and Splunk Rooms](https://www.youtube.com/watch?v=uHy3oM7NnoU)
   - [Forager Mastercard Cybersecurity Job Simulation](https://www.youtube.com/watch?v=uHy3oM7NnoU)
   - [SMB connection to Synology via Tailscale](https://www.youtube.com/watch?v=uHy3oM7NnoU)
