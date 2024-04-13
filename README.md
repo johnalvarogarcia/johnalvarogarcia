@@ -12,7 +12,7 @@
 <h2>💿 Audio DAW Automation Projects</h2>
 
 - [Dialogue Cleanup with iZotope RX10 and AudioSuite](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Reverse Reverb Vocal Effects](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Reverse Reverb Vocal Effects](https://github.com/johnalvarogarcia/rx10)
 - [Automate Studio Routing per User](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Quickly Set Buffer Size (Record Mode, Mixing Mode)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Session Prep: Automating Track Colours](https://www.youtube.com/watch?v=uHy3oM7NnoU)
