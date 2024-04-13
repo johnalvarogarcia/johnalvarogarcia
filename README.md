@@ -1,12 +1,12 @@
 <h1>Hi, I'm John!</h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity and 🛜 Homelab Projects:</h2>
 
   - [Implementing Honeypot in Azure VM and logging with Sentinel by Country](https://github.com/johnalvarogarcia/adp)
   - [Implementing Insecure Web App in Amazon AWS](https://github.com/johnalvarogarcia/juiceshop/tree/main)
   - [TryHackMe SOC and Splunk Rooms](https://github.com/johnalvarogarcia/tryhackme/tree/main)
   - [Forager Mastercard Cybersecurity Job Simulation](https://github.com/johnalvarogarcia/mastercard)
-  - [SMB connection to Synology via Tailscale](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+  - [Recording Sessions via Synlology NAS, SMB, and Tailscale](https://github.com/johnalvarogarcia/smb)
   - [Implementing PiHole](https://www.youtube.com/watch?v=uHy3oM7NnoU)
   - [Building a REST API](https://www.youtube.com/watch?v=uHy3oM7NnoU)
   - [Implementing a Virtual Active Directory Environment in Azure](https://www.youtube.com/watch?v=uHy3oM7NnoU)
