@@ -13,7 +13,7 @@
 
 - [Automated Dialogue Cleanup with iZotope RX10 and AudioSuite](https://github.com/johnalvarogarcia/rx10)
 - [Automated Reverse Reverb Vocal Effects](https://github.com/johnalvarogarcia/vocalfx)
-- [Automate Studio Routing per User](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Automate Studio Routing per User](https://github.com/johnalvarogarcia/uad)
 - [Quickly Set Buffer Size (Record Mode, Mixing Mode)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Session Prep: Automating Track Colours](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Automatically Select Song Start & End Times for Export](https://www.youtube.com/watch?v=uHy3oM7NnoU)
