@@ -7,9 +7,7 @@
   - [TryHackMe SOC and Splunk Rooms](https://github.com/johnalvarogarcia/tryhackme/tree/main)
   - [Forager Mastercard Cybersecurity Job Simulation](https://github.com/johnalvarogarcia/mastercard)
   - [Recording Sessions via Synlology NAS, SMB, and Tailscale](https://github.com/johnalvarogarcia/smb)
-  - [Implementing PiHole](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-  - [Building a REST API](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-  - [Implementing a Virtual Active Directory Environment in Azure](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+  - [Implementing PiHole](https://github.com/johnalvarogarcia/pihole)
 
 <h2>💿 Audio DAW Automation Projects</h2>
 
