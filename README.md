@@ -26,9 +26,9 @@
 
 <h2>📑 Certifications</h2>
 
-- [CompTIA Security+](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Splunk Core Certified User](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [ITIL 4 Foundation](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [CompTIA Security+](https://www.comptia.org/certifications/security)
+- [Splunk Core Certified User](https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-user.html)
+- [ITIL 4 Foundation](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/)
 
 
 <h2> 🤳 Connect with me:</h2>
