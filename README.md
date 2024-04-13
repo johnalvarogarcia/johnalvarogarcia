@@ -17,7 +17,6 @@
 - [Quickly Set Buffer Size (Record Mode, Mixing Mode)](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Session Prep: Automating Track Colours](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Automatically Select Song Start & End Times for Export](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Session Prep: Automating Track Colours](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Optimize Session Load Times](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [UAD Shortcut for Muting and Unmuting Speakers](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
