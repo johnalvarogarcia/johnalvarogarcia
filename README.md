@@ -15,7 +15,7 @@
 - [Automated Reverse Reverb Vocal Effects](https://github.com/johnalvarogarcia/vocalfx)
 - [Automate Studio Routing per User](https://github.com/johnalvarogarcia/uad)
 - [Quickly Set Buffer Size (Record Mode, Mixing Mode)](https://github.com/johnalvarogarcia/buffersize)
-- [Session Prep: Automating Track Colours](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Session Prep: Automating Track Colours](https://github.com/johnalvarogarcia/trackcolours)
 - [Automatically Select Song Start & End Times for Export](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Optimize Session Load Times](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [UAD Shortcut for Muting and Unmuting Speakers](https://www.youtube.com/watch?v=uHy3oM7NnoU)
