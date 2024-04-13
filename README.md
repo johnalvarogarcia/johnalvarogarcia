@@ -16,9 +16,8 @@
 - [Automate Studio Routing per User](https://github.com/johnalvarogarcia/uad)
 - [Quickly Set Buffer Size (Record Mode, Mixing Mode)](https://github.com/johnalvarogarcia/buffersize)
 - [Session Prep: Automating Track Colours](https://github.com/johnalvarogarcia/trackcolours)
-- [Automatically Select Song Start & End Times for Export](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Optimize Session Load Times](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [UAD Shortcut for Muting and Unmuting Speakers](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Optimize Session Load Times](https://github.com/johnalvarogarcia/sessionload)
+- [UAD Mouse Shortcut for Muting and Unmuting Speakers](https://github.com/johnalvarogarcia/mute)
 
 
 <h2>📑 Certifications</h2>
