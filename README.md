@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity and 🛜 Homelab Projects:</h2>
 
   - [Implementing a SOC / Honeypot in Azure](https://github.com/johnalvarogarcia/AzureSOC)
-  - [Implementing Insecure Web App in Amazon AWS](https://github.com/johnalvarogarcia/juiceshop/tree/main)
+  - [Implementing an Insecure Web App in Amazon AWS](https://github.com/johnalvarogarcia/juiceshop/tree/main)
   - [TryHackMe SOC and Splunk Rooms](https://github.com/johnalvarogarcia/tryhackme/tree/main)
   - [Forager Mastercard Cybersecurity Job Simulation](https://github.com/johnalvarogarcia/mastercard)
   - [Recording Sessions via Synlology NAS, SMB, and Tailscale](https://github.com/johnalvarogarcia/smb)
