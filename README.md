@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity and 🛜 Homelab Projects:</h2>
 
-  - [Implementing a SOC / Honeypot in Azure](https://github.com/johnalvarogarcia/AzureSOC)
+  - [Implementing a SOC / Honeypot in Azure](https://github.com/johnalvarogarcia/azuresoc)
+  - [Implenting an Active Directory Environment Using PowerShell](https://github.com/johnalvarogacia/activedirectory)
   - [Implementing an Insecure Web App in Amazon AWS](https://github.com/johnalvarogarcia/juiceshop/tree/main)
   - [TryHackMe SOC and Splunk Rooms](https://github.com/johnalvarogarcia/tryhackme/tree/main)
   - [Forager Mastercard Cybersecurity Job Simulation](https://github.com/johnalvarogarcia/mastercard)
@@ -25,11 +26,3 @@
 - [CompTIA Security+](https://www.comptia.org/certifications/security)
 - [Splunk Core Certified User](https://www.splunk.com/en_us/training/certification-track/splunk-core-certified-user.html)
 - [ITIL 4 Foundation](https://www.axelos.com/certifications/itil-service-management/itil-4-foundation/)
-
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="Johngarciaaudio | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/johnalvarogarcia/
