@@ -5,6 +5,7 @@
   - [Implementing a SOC / Honeypot in Azure](https://github.com/johnalvarogarcia/azuresoc)
   - [Implenting an Active Directory Environment Using PowerShell](https://github.com/johnalvarogarcia/activedirectory)
   - [Implementing an Insecure Web App in Amazon AWS](https://github.com/johnalvarogarcia/juiceshop/tree/main)
+  - [Ticket Lifecycle and Resolution with Jira](https://github.com/johnalvarogarcia/jiratickets)
   - [TryHackMe SOC and Splunk Rooms](https://github.com/johnalvarogarcia/tryhackme/tree/main)
   - [Forager Mastercard Cybersecurity Job Simulation](https://github.com/johnalvarogarcia/mastercard)
   - [Recording Sessions via Synlology NAS, SMB, and Tailscale](https://github.com/johnalvarogarcia/smb)
